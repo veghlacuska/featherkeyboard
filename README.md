@@ -1,4 +1,3 @@
-UNDER SERIOUS CONSTRUCTION
+Download: https://github.com/veghlacuska/featherkeyboard/raw/main/FeatherKB%20JORDAN.zip
 
-Discord: https://discord.gg/GUerNAUKu2/
-Website: https://veghlacuska.github.io/Stellatus/
+Tutorial: https://www.youtube.com/watch?v=Ne08T0kY0zA
