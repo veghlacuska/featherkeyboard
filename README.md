@@ -4,4 +4,4 @@ Download LUNAR PLUS Theme: https://github.com/veghlacuska/featherkeyboard/raw/ma
 
 Download BLOSSOM Theme: https://github.com/veghlacuska/featherkeyboard/raw/main/FeatherKeyboard_BLOSSOM.zip
 
-Download BLOSSOM Theme: https://github.com/veghlacuska/featherkeyboard/raw/main/FeatherKeyboard_EMERALD.zip
+Download EMERALD Theme: https://github.com/veghlacuska/featherkeyboard/raw/main/FeatherKeyboard_EMERALD.zip
